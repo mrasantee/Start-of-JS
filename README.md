@@ -1,1 +1,3 @@
 # Start-of-JS
+this is the start of my programming journey...
+hope it goes well
